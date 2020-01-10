@@ -5,3 +5,5 @@ This Project was about the history of Playstation and Xbox. I wanted to know whi
 
 
 Portfolio site: https://yonipineda.github.io/
+
+Blog Post: https://medium.com/@yonipineda1010/xbox-and-playstation-rivalry-throughout-time-5633470d85fc
